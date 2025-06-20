@@ -30,7 +30,7 @@ streamlit run app.py
 
 ## Requirements
 - Python 3.7+
-- `dam_data.db` (SQLite database with electricity prices)
+- `dam_data.db` (SQLite database with electricity prices) - please contact author
 - Your consumption Excel file (with date and kWh columns)
 
 ---
