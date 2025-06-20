@@ -6,6 +6,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 import numpy as np
 
+st.set_page_config(page_title='Electricity Price & Consumption Analyzer', page_icon='static/favicon.ico')
 st.title('Electricity Price & Consumption Analyzer')
 
 def load_price_data(db_path):
